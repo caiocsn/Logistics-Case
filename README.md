@@ -5,7 +5,7 @@ This repository contains an in-depth analysis of the presented logistics operati
 
 Please visit the [dashboard](https://lookerstudio.google.com/reporting/f7d0f7ed-6e79-4bef-a5ad-fbd547b29b7d) I built to a more comprehensive and visual perspective of the study.
 
-The processing and exploration were performed here! Feel free to leave a feedback.
+The processing and exploration were performed [here]([https://lookerstudio.google.com/reporting/f7d0f7ed-6e79-4bef-a5ad-fbd547b29b7d)](https://github.com/caiocsn/Logistics-Case/blob/main/Processing%20and%20Exploration.ipynb)! Feel free to leave a feedback.
 
 ## Objective
 The primary objective of this case study is to identify and address challenges faced by the logistics operation, ultimately aiming to achieve cost savings, streamline processes, and deliver exceptional customer service.
